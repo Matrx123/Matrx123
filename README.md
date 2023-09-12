@@ -16,7 +16,7 @@ Hello there! I'm Vipin Joshi, a passionate JavaScript Full Stack Developer with 
 
 🚀 I try to regularly contribute to open-source projects , and tools that I find useful in my day-to-day work.
 
-🧰 I have maintained some public project to learn about ReactJS and fullstack blockchain developement using solidity, so feel free to explore my repositories and use them.
+🧰 I have maintained some public repositories to learn about ReactJS and fullstack blockchain developement using solidity, so feel free to explore my repositories and use them.
 
 ## Let's Connect
 
