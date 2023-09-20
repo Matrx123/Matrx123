@@ -6,7 +6,7 @@ Hello there! I'm Vipin Joshi, a passionate JavaScript Full Stack Developer with 
 
 ## My Expertise
 
-## 👨‍💻 Tech Stack:
+## 👨‍💻 Tech Stack
 
 🌐 Frontend: HTML5, CSS3, Typescript, JavaScript (ES6+), React, materialUI
 🌐 Backend: Node.js, Express.js
