@@ -9,11 +9,17 @@ Hello there! I'm Vipin Joshi, a passionate JavaScript Full Stack Developer with 
 ## 👨‍💻 Tech Stack
 
 🌐 Frontend: HTML5, CSS3, Typescript, JavaScript (ES6+), React, materialUI
+
 🌐 Backend: Node.js, Express.js
+
 🌐 Web3: Solidity, hardhat
+
 🧰 Tools: Git, Docker, Webpack, Babel
+
 📦 Databases: MongoDB, MySQL
+
 💡 Testing: Mocha, Chai
+
 🛠️ DevOps: AWS
 
 
