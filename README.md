@@ -6,11 +6,20 @@ Hello there! I'm Vipin Joshi, a passionate JavaScript Full Stack Developer with 
 
 ## My Expertise
 
+## 👨‍💻 Tech Stack:
+
+🌐 Frontend: HTML5, CSS3, Typescript, JavaScript (ES6+), React, materialUI
+🌐 Backend: Node.js, Express.js
+🌐 Web3: Solidity, hardhat
+🧰 Tools: Git, Docker, Webpack, Babel
+📦 Databases: MongoDB, MySQL
+💡 Testing: Mocha, Chai
+🛠️ DevOps: AWS
+
+
 🌐 **Full Stack Development**: I specialize in end-to-end web development, handling both the frontend and backend aspects of web applications. From crafting pixel-perfect user interfaces to designing efficient server-side solutions, I've got it covered.
 
 💻 **JavaScript Enthusiast**: JavaScript is my playground. I'm well-versed in modern JavaScript, including ES6+ features, and I keep up with the latest trends and best practices.
-
-⚙️ **Web3 and Blockchain**: I have a keen interest in Web3 technologies and blockchain development. I have knowledge of Solidity for Ethereum smart contract development and experienced in using Hardhat for building, testing, and deploying decentralized applications.
 
 ## What You'll Find Here
 
