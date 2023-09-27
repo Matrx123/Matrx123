@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Vipin Joshi, a passionate JavaScript Full Stack Developer with over 6+ years of experience in the world of web development and 4 Years of experience as a fullstack developer using ReactJs and NodeJs. I thrive on building robust and efficient web applications that deliver exceptional user experiences.
+Hello there! I'm Vipin Joshi, a passionate Full Stack Developer with over 6+ years of experience in the world of web development and 4 Years of experience as a fullstack developer using ReactJs and NodeJs. I thrive on building robust and efficient web applications that deliver exceptional user experiences.
 
 ## My Expertise
 
