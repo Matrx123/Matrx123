@@ -18,7 +18,7 @@ Hello there! I'm Vipin Joshi, a passionate JavaScript Full Stack Developer with 
 
 📦 Databases: MongoDB, MySQL
 
-💡 Testing: Mocha, Chai
+💡 Testing: Mocha, Chai, Cypress(Component and E2E Tests)
 
 🛠️ DevOps: AWS
 
