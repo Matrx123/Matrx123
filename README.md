@@ -8,13 +8,13 @@ Hello there! I'm Vipin Joshi, a passionate Full Stack Developer with over 6 year
 
 👨‍💻 **Tech Stack**:
 
-🌐 Frontend: HTML5, CSS3, Typescript, JavaScript (ES6+), React, materialUI
+🌐 Frontend: Typescript, JavaScript (ES6+), React, materialUI, HTML5, CSS3
 
-🌐 Backend: Node.js, Express.js
+🌐 Backend: Node.js, Express.js, Sequelize, Winston
 
 🧰 Tools: Git, Docker, Webpack, Babel
 
-📦 Databases: MongoDB, MySQL
+📦 Databases: MongoDB, MySQL, Postgresql
 
 💡 Testing: Mocha, Chai, Cypress(Component and E2E Tests)
 
