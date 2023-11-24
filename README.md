@@ -12,8 +12,6 @@ Hello there! I'm Vipin Joshi, a passionate Full Stack Developer with over 6 year
 
 🌐 Backend: Node.js, Express.js
 
-🌐 Web3: Solidity, hardhat
-
 🧰 Tools: Git, Docker, Webpack, Babel
 
 📦 Databases: MongoDB, MySQL
