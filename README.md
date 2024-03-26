@@ -10,7 +10,7 @@ Hello there! I'm Vipin Joshi, a Software engineer with over 7+ years of experien
 
 🌐 Frontend: Typescript, JavaScript (ES6+), React.js, materialUI, HTML5, CSS3
 
-🌐 Backend: Node.js, Express.js, Sequelize, Winston
+🌐 Backend: Node.js, Express.js, Sequelize
 
 🧰 Tools: Git, Docker, Webpack, Babel
 
