@@ -8,9 +8,7 @@ Hello there! I'm Vipin Joshi, a Software engineer with over 7+ years of experien
 
 👨‍💻 **Tech Stack**:
 
-🌐 Frontend: Typescript, JavaScript (ES6+), React.js, materialUI, HTML5, CSS3
-
-🌐 Backend: Node.js, Express.js, Sequelize
+🌐 Tech : Typescript, JavaScript (ES6+), Rust,  React.js, materialUI, Tailwind-CSS, Node.js, Express.js
 
 🧰 Tools: Git, Docker, Webpack, Babel
 
@@ -27,9 +25,7 @@ Hello there! I'm Vipin Joshi, a Software engineer with over 7+ years of experien
 
 🚀 I try to regularly contribute to open-source projects , and tools that I find useful in my day-to-day work.
 
-🧰 I have maintained some public repositories to learn about ReactJS and fullstack blockchain developement using solidity, so feel free to explore my repositories and use them.
-
-🦀 I am learning Rust currently in my free time along with my job, i am looking forward to leap into web3 space.
+🦀 I have maintained some public repositories to learn about Rust, so feel free to explore my repositories and use them.
 
 ## Let's Connect
 
@@ -37,7 +33,7 @@ Hello there! I'm Vipin Joshi, a Software engineer with over 7+ years of experien
 
 ## Fun Facts
 
-🚴 When I'm not coding, you can find me walking, cycling or riding moterbike through scenic trails or exploring new places.
+🚴 When I'm not coding, you can find me walking/cycling/riding moterbike through scenic trails or exploring new places.
 
 Thank you for visiting my GitHub profile. I hope you find my work valuable, and I look forward to collaborating and learning from the amazing developer community here!
 
