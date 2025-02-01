@@ -40,4 +40,6 @@ Thank you for visiting my GitHub profile. I hope you find my work valuable, and 
 Lets connect 🚀
 
 ## Support My Work
-If you enjoy my projects and want to support me, consider [buying me a coffee] (https://buymeacoffee.com/vipinjoshi)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=social&logo=buy-me-a-coffee)](https://buymeacoffee.com/vipinjoshi)
+
