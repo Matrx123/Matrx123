@@ -40,4 +40,4 @@ Thank you for visiting my GitHub profile. I hope you find my work valuable, and 
 Lets connect 🚀
 
 ## Support My Work
-[![Buy Me a Coffee] (https://buymeacoffee.com/vipinjoshi)
+If you enjoy my projects and want to support me, consider [buying me a coffee] (https://buymeacoffee.com/vipinjoshi)
