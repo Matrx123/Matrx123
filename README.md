@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Vipin Joshi, a Software Engineer with over 7+ years of experience in software development and 5+ years of experience as a Full Stack Developer using React.js, TypeScript, and Node.js. I build robust and efficient web applications that deliver exceptional user experiences.  
+Hello there! I'm Vipin Joshi, a Software Engineer with over 7+ years of experience in software development and holding experience as a Full Stack Developer using React.js, TypeScript, and Node.js.
 Currently, I’m also a **full-time learner of Rust programming**, building projects and contributing to the Rust open-source community.
 
 ---
