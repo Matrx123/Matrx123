@@ -34,7 +34,7 @@ Currently, I’m also a **full-time learner of Rust programming**, building proj
 
 ## 📺 My YouTube Channel
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC73oZHkf8h47XaLZaWacMHA?style=for-the-badge&logo=youtube&label=Code%20With%20Joeshi)](https://www.youtube.com/@codewithjoeshi)  
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC73oZHkf8h47XaLZaWacMHA?style=for-the-badge&logo=youtube&label=Code%20With%20Joeshi)](https://www.youtube.com/@vipinjoshiofficial)  
 🎥 I share coding tutorials, live coding sessions, and development tips — [**Check it out here**](https://www.youtube.com/@TheCodingBreakthrough)
 
 ---
